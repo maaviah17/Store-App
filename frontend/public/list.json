@@ -1,0 +1,97 @@
+
+[
+    {
+        "id":1,
+        "name":"History of Rockstar",
+        "title" : "Prem Katha ek Raja ki",
+        "price" : 10,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },
+    {
+        "id":2,
+        "name":"RomCom Book",
+        "title" : "Love & Heartbreak",
+        "price" : 100,
+        "category": "Romance",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title" : "The Regain Of Hope",
+        "price" : 0,
+        "category": "Sports",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title" : "The Regain Of Hope",
+        "price" : 0,
+        "category": "Drama",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title" : "The Regain Of Hope",
+        "price" : 50,
+        "category": "Mental",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title" : "The Regain Of Hope",
+        "price" : 0,
+        "category": "Song",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },{
+        "id":7,
+        "name":"The Destruction of Hope",
+        "title" : "A beautiful yet disturbing book",
+        "price" : 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },
+    {
+        "id":8,
+        "name":"Laila Majnu",
+        "title" : "Pyaar wyaar sab bekaar hai",
+        "price" : 3.5,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title" : "The Regain Of Hope",
+        "price" : 0,
+        "category": "Politics",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },{
+        "id":10,
+        "name":"Story Book",
+        "title" : "The Regain Of Hope",
+        "price" : 0,
+        "category": "Politics",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },
+    {
+        "id":11,
+        "name":"Cricket Book",
+        "title" : "Art of hitting a cover drive",
+        "price" : 16.99,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title" : "The Regain Of Hope",
+        "price" : 0,
+        "category": "Food",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718454863~exp=1718458463~hmac=f318f32318ed88fe5eb4b8ca4715d7045244f5ed2d140ee055309c2eec7afd26&w=826"
+    }
+]
